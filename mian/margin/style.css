@@ -1,0 +1,33 @@
+body{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.one{
+    margin-top: 44px;
+    border-style: dotted;
+    color: red;
+    text-align: left;
+    background-color: black;
+    padding: 32px;
+    margin: 12px;
+}
+.two{border-style: dashed;
+    height: 3px;
+     color: rgb(240, 237, 83);
+    text-align: left;
+    padding: 12px;
+    background-color: violet;
+    }
+
+.three{border-style:solid;
+    width: 200px;
+    text-align: center;
+    color: purple; 
+    background-color: black;
+    padding: 32px;
+    margin: 48px;
+    margin-left: 1112px;
+    
+}
+       
