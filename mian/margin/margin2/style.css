@@ -1,0 +1,27 @@
+.title{background-color: gray;
+    width: 340px;
+    height: fit-content;
+    padding: 8px;
+    text-align: center;
+    font-size: 16px;
+    border: 8px solid purple;
+    margin: auto;
+    }
+
+.content{background-color: gray;
+    width: 340px;
+    height: fit-content;
+    margin: auto;
+    padding: 8px;
+    border: 8px solid purple;
+}
+
+.buttonn{background-color: gray;
+    margin: auto;
+    width: 340px;
+    height: fit-content;
+    padding: 8px;
+    text-align: center;
+    border: 8px solid purple;
+    
+}
